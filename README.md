@@ -1,4 +1,5 @@
 # Conceito de Redução:
+## Antes de irmos para essa explicação, quero lembrar que os outros codigos estão todos com os seus respectivos README de explivação.
 
 ![code](https://github.com/user-attachments/assets/6bd74c3b-b3bc-456a-bc54-a3b3c64cf9a5)
 
